@@ -1,0 +1,4 @@
+{
+  "extends": "../../tsconfig",
+  "include": ["rnw-overrides.d.ts", "images.d.ts", "**/*.ts", "**/*.tsx"]
+}

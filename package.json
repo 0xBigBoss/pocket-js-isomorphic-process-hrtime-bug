@@ -9,6 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@pokt-foundation/pocketjs-isomorphic-provider": "^2.1.0",
+    "@pokt-foundation/pocketjs-provider": "^2.1.0",
+    "@pokt-foundation/pocketjs-relayer": "^2.1.0",
+    "@pokt-foundation/pocketjs-signer": "^2.1.0",
+    "@pokt-foundation/pocketjs-transaction-builder": "2.2.0-rc.3",
+    "@pokt-foundation/pocketjs-utils": "^2.1.0",
     "next": "12.3.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
